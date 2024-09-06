@@ -134,5 +134,9 @@ body{
         justify-content: space-between;
         padding: 0 20px;
         margin-top: 50px;
+
+    }
+    .col{
+        margin-top: 20px;
     }
 }
